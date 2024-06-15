@@ -26,9 +26,9 @@ Our primary project, Roamify, focuses on providing tailored tourist attraction r
 ## Brought to you by:
 
 - [Vikranth](https://github.com/Vikranth3140)
-- [Harsh](https://github.com/FakePickle)
 - [Noel](https://github.com/noeltiju)
 - [Muthuraj](https://github.com/Muthuraj-Vairamuthu)
 - [Armaan](https://github.com/aturtle4)
+- [Harsh](https://github.com/FakePickle)
 
 Thank you for your interest in the Roamify Organization. We look forward to working together to enhance the travel experience for everyone!
