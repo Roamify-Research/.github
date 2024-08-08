@@ -12,9 +12,7 @@ Welcome to the Roamify Research GitHub Organization! We are dedicated to revolut
 - [Current Focus](#current-focus)
 - [Tech Stack](#tech-stack)
 - [Goals](#goals)
-- [Meet the Team](#meet-the-team)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
+- [Our Team](#our-team)
 - [License](#license)
 - [Contact](#contact)
 
