@@ -24,13 +24,17 @@ Roamify Research focuses on leveraging the latest advancements in machine learni
 
 Roamify is a cutting-edge browser extension that revolutionizes the travel planning experience. By seamlessly extracting data from open tabs, it allows travelers to effortlessly input their chosen destinations and preferred travel dates. Leveraging the power of NLTK and various large language models (LLMs), Roamify generates personalized, day-by-day itineraries tailored to each user's unique preferences and interests.
 
-You can explore our work on our [GitHub](https://github.com/Roamify-Research/Machine-Learning) and [Hugging Face](https://huggingface.co/Roamify).
+You can explore our work on our [GitHub](https://github.com/Roamify-Research) and [Hugging Face](https://huggingface.co/Roamify).
 
 ## Projects
 
-### [Roamify Machine Learning](https://github.com/Roamify-Research/Machine-Learning/Machine-Learning)
+### [Machine Learning](https://github.com/Roamify-Research/Machine-Learning)
 
 This repository contains the comprehensive machine learning research and methodologies used in Roamify, encompassing advanced data preprocessing, natural language processing, and large language models to deliver personalized travel recommendations.
+
+### [Extension](https://github.com/Roamify-Research/Extension)
+
+This repository contains the comprehensive codebase and methodologies of the Roamify Chrome Extension, integrating advanced data preprocessing, natural language processing, and large language models to deliver personalized travel recommendations.
 
 
 ## Key Features
