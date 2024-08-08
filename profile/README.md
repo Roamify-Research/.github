@@ -72,7 +72,7 @@ This repository contains the comprehensive codebase and methodologies of the Roa
 
 ## License
 
-Our projects are licensed under the [MIT License](<(https://github.com/Roamify-Research/.github/blob/main/LICENSE)>).
+Our projects are licensed under the [MIT License](https://github.com/Roamify-Research/.github/blob/main/LICENSE).
 
 ## Contact
 
