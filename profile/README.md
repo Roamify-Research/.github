@@ -1,25 +1,53 @@
-# Roamify: Roaming Redefined
+# **Roamify Research**
 
-Welcome to Roamify! We are dedicated to developing innovative solutions that enhance travel experiences through personalized recommendations.
+## _Roaming Redefined: Changing the Way the World Travels_
 
-Roamify is a cutting-edge browser extension that revolutionizes the travel planning experience. By seamlessly extracting data from open tabs, it allows travelers to effortlessly input their chosen destinations and preferred travel dates. Leveraging the power of NLTK and various large language models (LLMs), Roamify generates personalized, day-by-day itineraries tailored to each user's unique preferences and interests. Whether you're a spontaneous adventurer or a meticulous planner, Roamify ensures a smooth and enjoyable journey with meticulously crafted travel plans.
+Welcome to the Roamify Research GitHub Organization! We are dedicated to revolutionizing the travel planning experience through cutting-edge research and innovative solutions. Our focus is on delivering personalized travel recommendations that enhance travel experiences for users worldwide.
 
-You can explore our work on our [GitHub](https://github.com/Roamify) and [Hugging Face](https://huggingface.co/Roamify).
+## Table of Contents
 
-**Roamify** is a tourist attraction recommendation system that leverages collaborative filtering to provide users with personalized recommendations for attractions they might enjoy.
+- [About Us](#about-us)
+- [Projects](#projects)
+- [Key Features](#key-features)
+- [Current Focus](#current-focus)
+- [Tech Stack](#tech-stack)
+- [Goals](#goals)
+- [Meet the Team](#meet-the-team)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-## Key Features:
+## About Us
+
+Roamify Research focuses on leveraging the latest advancements in machine learning to enhance the travel experience for users worldwide. Our team of researchers and developers work collaboratively to create innovative solutions that offer personalized and insightful travel recommendations.
+
+Roamify is a cutting-edge browser extension that revolutionizes the travel planning experience. By seamlessly extracting data from open tabs, it allows travelers to effortlessly input their chosen destinations and preferred travel dates. Leveraging the power of NLTK and various large language models (LLMs), Roamify generates personalized, day-by-day itineraries tailored to each user's unique preferences and interests.
+
+You can explore our work on our [GitHub](https://github.com/Roamify-Research/Machine-Learning) and [Hugging Face](https://huggingface.co/Roamify).
+
+## Projects
+
+### [Roamify Machine Learning](https://github.com/Roamify-Research/Machine-Learning/Machine-Learning)
+
+This repository contains the comprehensive machine learning research and methodologies used in Roamify, encompassing advanced data preprocessing, natural language processing, and large language models to deliver personalized travel recommendations.
+
+
+## Key Features
+
 - **Personalized Recommendations**: Get suggestions based on your ratings and preferences.
 - **Location-Based Filtering**: Discover attractions in specific locations.
 - **User-Friendly Interface**: Enjoy a seamless experience with our Streamlit-built interface.
 - **Interactive Ratings**: Rate attractions to refine your recommendations.
 
-## Current Focus:
+## Current Focus
+
 - **Enhancing Accuracy**: Continuously improving our recommendation algorithm.
 - **Expanding Database**: Adding more attractions and detailed information.
 - **UI Improvements**: Refining the user interface for a smoother experience.
 
-## Tech Stack:
+## Tech Stack
+
 - **Front End**: HTML, CSS, JavaScript, React.js, Flutter
 - **Back End**: Python (Flask)
 - **Frameworks & Technologies**: PyTorch, Hugging Face, Transformers, TextStreamer, TRL, CUDA, Jupyter Notebook
@@ -27,16 +55,30 @@ You can explore our work on our [GitHub](https://github.com/Roamify) and [Huggin
 - **LLMs**: BERT, T5, DistilBERT, Llama, RoBERTa
 - **Version Control**: Git, GitHub, Hugging Face
 
-## Goals:
+## Goals
+
 - **Innovation in Travel**: Creating tools and services that simplify travel planning.
 - **Personalization**: Delivering highly personalized recommendations based on individual preferences.
 - **User Engagement**: Building an engaging platform for users to interact, rate attractions, and receive tailored recommendations.
 
-## Meet the Team:
+## Our Team
+
 - [Vikranth](https://github.com/Vikranth3140)
 - [Noel](https://github.com/noeltiju)
 - [Muthuraj](https://github.com/Muthuraj-Vairamuthu)
 - [Armaan](https://github.com/aturtle4)
 - [Harsh](https://github.com/FakePickle)
 
-Thank you for learning about us. We look forward to enhancing the travel experience for everyone!
+## License
+
+Our projects are licensed under the [MIT License]((https://github.com/Roamify-Research/.github/blob/main/LICENSE)).
+
+## Contact
+
+For any questions or inquiries, please contact us at [roamifyredefined@gmail.com](mailto:roamifyredefined@gmail.com).
+
+---
+
+Thank you for visiting the Roamify Research GitHub Organization! We look forward to your contributions and collaboration.
+
+---
