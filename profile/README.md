@@ -36,7 +36,6 @@ This repository contains the comprehensive machine learning research and methodo
 
 This repository contains the comprehensive codebase and methodologies of the Roamify Chrome Extension, integrating advanced data preprocessing, natural language processing, and large language models to deliver personalized travel recommendations.
 
-
 ## Key Features
 
 - **Personalized Recommendations**: Get suggestions based on your ratings and preferences.
@@ -75,7 +74,7 @@ This repository contains the comprehensive codebase and methodologies of the Roa
 
 ## License
 
-Our projects are licensed under the [MIT License]((https://github.com/Roamify-Research/.github/blob/main/LICENSE)).
+Our projects are licensed under the [MIT License](<(https://github.com/Roamify-Research/.github/blob/main/LICENSE)>).
 
 ## Contact
 
