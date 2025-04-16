@@ -83,7 +83,3 @@ If you use **Roamify** in your research, please cite our paper:
 ## Contact
 
 For any questions or inquiries, please contact us at [roamifyredefined@gmail.com](mailto:roamifyredefined@gmail.com).
-
----
-
-Thank you for visiting the Roamify Research GitHub Organization! We look forward to your contributions and collaboration.
