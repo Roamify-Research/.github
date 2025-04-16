@@ -2,6 +2,8 @@
 
 ## _Roaming Redefined: Changing the Way the World Travels_
 
+[![arXiv](https://img.shields.io/badge/arXiv-2504.10489-b31b1b.svg)](https://arxiv.org/abs/2504.10489)
+
 Welcome to the Roamify Research GitHub Organization! We are dedicated to revolutionizing the travel planning experience through cutting-edge research and innovative solutions. Our focus is on delivering personalized travel recommendations that enhance travel experiences for users worldwide.
 
 ## Table of Contents
