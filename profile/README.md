@@ -14,6 +14,7 @@ Welcome to the Roamify Research GitHub Organization! We are dedicated to revolut
 - [Goals](#goals)
 - [Our Team](#our-team)
 - [License](#license)
+- [How to Cite Us](#how-to-cite-us)
 - [Contact](#contact)
 
 ## About Us
@@ -22,7 +23,8 @@ Roamify Research focuses on leveraging the latest advancements in machine learni
 
 Roamify is a cutting-edge browser extension that revolutionizes the travel planning experience. By seamlessly extracting data from open tabs, it allows travelers to effortlessly input their chosen destinations and preferred travel dates. Leveraging the power of NLTK and various large language models (LLMs), Roamify generates personalized, day-by-day itineraries tailored to each user's unique preferences and interests.
 
-You can explore our work on our [GitHub](https://github.com/Roamify-Research) and [Hugging Face](https://huggingface.co/Roamify).
+You can explore our work on our [GitHub](https://github.com/Roamify-Research) and [Hugging Face](https://huggingface.co/Roamify).  
+📄 Read our paper on arXiv: [https://arxiv.org/abs/2504.10489](https://arxiv.org/abs/2504.10489)
 
 ## Projects
 
@@ -74,6 +76,22 @@ This repository contains the comprehensive codebase and methodologies of the Roa
 
 Our projects are licensed under the [MIT License](https://github.com/Roamify-Research/.github/blob/main/LICENSE).
 
+## 📚 How to Cite Us
+
+If you use **Roamify** in your research, please cite our paper:
+
+```bibtex
+@misc{udandarao2025roamifydesigningevaluatingllm,
+  title={Roamify: Designing and Evaluating an LLM Based Google Chrome Extension for Personalised Itinerary Planning}, 
+  author={Vikranth Udandarao and Noel Abraham Tiju and Muthuraj Vairamuthu and Harsh Mistry and Dhruv Kumar},
+  year={2025},
+  eprint={2504.10489},
+  archivePrefix={arXiv},
+  primaryClass={cs.HC},
+  url={https://arxiv.org/abs/2504.10489},
+}
+```
+
 ## Contact
 
 For any questions or inquiries, please contact us at [roamifyredefined@gmail.com](mailto:roamifyredefined@gmail.com).
@@ -81,5 +99,3 @@ For any questions or inquiries, please contact us at [roamifyredefined@gmail.com
 ---
 
 Thank you for visiting the Roamify Research GitHub Organization! We look forward to your contributions and collaboration.
-
----
