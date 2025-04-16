@@ -14,8 +14,6 @@ Welcome to the Roamify Research GitHub Organization! We are dedicated to revolut
 - [Current Focus](#current-focus)
 - [Tech Stack](#tech-stack)
 - [Goals](#goals)
-- [Our Team](#our-team)
-- [License](#license)
 - [How to Cite Us](#how-to-cite-us)
 - [Contact](#contact)
 
@@ -65,18 +63,6 @@ This repository contains the comprehensive codebase and methodologies of the Roa
 - **Innovation in Travel**: Creating tools and services that simplify travel planning.
 - **Personalization**: Delivering highly personalized recommendations based on individual preferences.
 - **User Engagement**: Building an engaging platform for users to interact, rate attractions, and receive tailored recommendations.
-
-## Our Team
-
-- [Vikranth](https://github.com/Vikranth3140)
-- [Noel](https://github.com/noeltiju)
-- [Muthuraj](https://github.com/Muthuraj-Vairamuthu)
-- [Armaan](https://github.com/aturtle4)
-- [Harsh](https://github.com/FakePickle)
-
-## License
-
-Our projects are licensed under the [MIT License](https://github.com/Roamify-Research/.github/blob/main/LICENSE).
 
 ## 📚 How to Cite Us
 
